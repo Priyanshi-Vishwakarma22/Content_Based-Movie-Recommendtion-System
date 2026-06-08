@@ -212,6 +212,81 @@ Files Used:
 
 ---
 
+## 📸 Screenshots
+
+### 1. Home Page - Movie Search
+![Home Page](images\Screenshot 2026-06-09 035023.png)
+
+*Search for any movie from the dropdown*
+
+---
+
+### 2. Movie Selection
+![Movie Selection](images\Screenshot 2026-06-09 035059.png)
+
+*Select "John Carter" or any movie from the list*
+
+---
+
+### 3. Selected Movie Details
+![Movie Details](images\Screenshot 2026-06-09 035135.png)
+
+*Complete movie information including:*
+- 📅 Release Year
+- ⏱️ Runtime
+- 🌐 Language
+- ⭐ Rating & Popularity
+- 🎭 Genres
+- 📖 Full Story Overview
+
+---
+
+### 4. Recommendations Display
+![Recommendations](images\Screenshot 2026-06-09 035145.png)
+
+*Get 5+ personalized movie recommendations*
+
+---
+
+### 5. Recommendation Cards
+![Recommendation Cards](images\Screenshot 2026-06-09 035145.png)
+
+*Each recommendation shows:*
+- 🎬 Movie Poster
+- ⭐ Rating
+- 🎭 Genres
+- 🎬 Trailer Button
+- ❤️ Add to Favorites
+
+---
+
+### 6. Trailer Player
+![Trailer Player](images\Screenshot 2026-06-09 040259.png)
+
+*Watch YouTube trailers directly in the app*
+
+---
+
+## ✨ Features
+
+| Feature | Description |
+|---------|-------------|
+| 🔍 **Smart Search** | Autocomplete dropdown for 4806+ movies |
+| 🎯 **Recommendations** | Content-based using Cosine Similarity |
+| 🎬 **Trailers** | YouTube integration for official trailers |
+| ⭐ **Favorites** | Save movies to your personal watchlist |
+| 📜 **History** | Track your recent searches |
+| 📥 **Export** | Download recommendations as CSV |
+| 🎨 **Netflix-style UI** | Dark theme with smooth animations |
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Streamlit
+- **Backend:** Python
+- **API:** TMDB (The Movie Database)
+- **ML Algorithm:** CountVectorizer + Cosine Similarity
+- **Data:** 4806 movies dataset
+- **Deployment:** Render 
 
 ## 👨‍💻 Author
 

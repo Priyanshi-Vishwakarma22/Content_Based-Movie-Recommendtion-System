@@ -215,21 +215,21 @@ Files Used:
 ## 📸 Screenshots
 
 ### 1. Home Page - Movie Search
-![Home Page](images/Screenshot2026-06-09035023.png)
+![Home Page](images/Screenshot%202026-06-09%20035023.png)
 
 *Search for any movie from the dropdown*
 
 ---
 
 ### 2. Movie Selection
-![Movie Selection](images/Screenshot2026-06-09035059.png)
+![Movie Selection](images/Screenshot%202026-06-09%20035059.png)
 
 *Select "John Carter" or any movie from the list*
 
 ---
 
 ### 3. Selected Movie Details
-![Movie Details](images/Screenshot2026-06-09035135.png)
+![Movie Details](images/Screenshot%202026-06-09%20035135.png)
 
 *Complete movie information including:*
 - 📅 Release Year
@@ -242,30 +242,26 @@ Files Used:
 ---
 
 ### 4. Recommendations Display
-![Recommendations](images/Screenshot2026-06-09035145.png)
+![Recommendations](images/Screenshot%202026-06-09%20035145.png)
 
-*Get 5+ personalized movie recommendations*
+*Get personalized movie recommendations*
 
 ---
 
 ### 5. Recommendation Cards
-![Recommendation Cards](images/Screenshot2026-06-09035145.png)
+![Recommendation Cards](images/Screenshot%202026-06-09%20035135.png)
 
-*Each recommendation shows:*
-- 🎬 Movie Poster
-- ⭐ Rating
-- 🎭 Genres
-- 🎬 Trailer Button
-- ❤️ Add to Favorites
+*Each recommendation shows movie poster, rating, and trailer*
 
 ---
 
 ### 6. Trailer Player
-![Trailer Player](images/Screenshot2026-06-09040259.png)
+![Trailer Player](images/Screenshot%202026-06-09%20040259.png)
 
 *Watch YouTube trailers directly in the app*
 
 ---
+
 
 ## ✨ Features
 
@@ -294,7 +290,7 @@ Priyanshi Vishwakarma
 
 Machine Learning & Python Developer
 
----
+[GitHub](https://github.com/Priyanshi-Vishwakarma22) | [LinkedIn](https://www.linkedin.com/in/priyanshi-vishwakarma/)
 
 ## ⭐ If you like this project
 

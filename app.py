@@ -128,7 +128,7 @@ movies = load_object("artifacts/movies.pkl")
 movie_list = movies["title"].values
 
 # ========== EK HI BOX - SEARCH + SELECT ==========
-st.markdown("### 🔍 Search or Select a Movie")
+st.markdown("### 🔍 Search a Movie")
 
 # Selectbox with search functionality - yehi hai ek box
 selected_movie = st.selectbox(

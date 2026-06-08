@@ -51,12 +51,6 @@ The application also provides:
 * YouTube Trailer Support
 * Watch Trailer Directly Inside Application
 
-### User Features
-
-* Add to Favorites
-* Recent Search History
-* Download Recommendations as CSV
-
 ### User Interface
 
 * Netflix Inspired Dark Theme
@@ -94,6 +88,10 @@ The application also provides:
 ### API
 
 * TMDB API
+
+### Deployment 
+
+* Render
 
 ---
 
@@ -145,7 +143,7 @@ cd recommendation_system
 ### Create Virtual Environment
 
 ```bash
-python -m venv venv
+conda create -p venv python==3.10 -y
 ```
 
 ### Activate Environment
@@ -153,7 +151,7 @@ python -m venv venv
 Windows:
 
 ```bash
-venv\Scripts\activate
+conda activate/venv
 ```
 
 ### Install Dependencies
@@ -275,22 +273,11 @@ Files Used:
 | 📥 **Export** | Download recommendations as CSV |
 | 🎨 **Netflix-style UI** | Dark theme with smooth animations |
 
-## 🛠️ Tech Stack
-
-- **Frontend:** Streamlit
-- **Backend:** Python
-- **API:** TMDB (The Movie Database)
-- **ML Algorithm:** CountVectorizer + Cosine Similarity
-- **Data:** 4806 movies dataset
-- **Deployment:** Render 
 
 ## 👨‍💻 Author
 
-Priyanshi Vishwakarma
-
-Machine Learning & Python Developer
-
-[GitHub](https://github.com/Priyanshi-Vishwakarma22) | [LinkedIn](https://www.linkedin.com/in/priyanshi-vishwakarma/)
+Priyanshi Vishwakarma[GitHub](https://github.com/Priyanshi-Vishwakarma22) |
+ [LinkedIn](linkedin.com/in/priyanshi-vishwakarma-397b56312)
 
 ## ⭐ If you like this project
 

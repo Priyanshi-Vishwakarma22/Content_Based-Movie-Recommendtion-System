@@ -276,8 +276,9 @@ Files Used:
 
 ## 👨‍💻 Author
 
-Priyanshi Vishwakarma[GitHub](https://github.com/Priyanshi-Vishwakarma22) |
- [LinkedIn](linkedin.com/in/priyanshi-vishwakarma-397b56312)
+Priyanshi Vishwakarma
+
+[GitHub](https://github.com/Priyanshi-Vishwakarma22) | [LinkedIn](linkedin.com/in/priyanshi-vishwakarma-397b56312)
 
 ## ⭐ If you like this project
 
